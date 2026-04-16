@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-module-5831
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/service-module-5831
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
